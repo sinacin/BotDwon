@@ -16,7 +16,7 @@ const FORCE_JOIN_LINK = 'https://t.me/newcodingx'  // link grup lo
 const FORCE_JOIN_ID = '-1003760324887'
 
 
-const ADMIN_ID = 85725572590
+const ADMIN_ID = 8572557259
 const startTime = Date.now()
 const users = new Set()
 
