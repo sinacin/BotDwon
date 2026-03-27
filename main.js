@@ -3,7 +3,7 @@ const axios = require('axios')
 const fs = require('fs')
 const path = require('path')
 
-const token = '8284203895:AAG7ixxA6EvtCc548Qxm8nk-E3lixcHShe8'
+const token = '8611628194:AAGLN9xNIqVnpSY_fS6z8WR9HgqiouM6QtY'
 const bot = new TelegramBot(token, { polling: true })
 
 const videoDir = path.join(__dirname, 'video')
