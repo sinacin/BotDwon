@@ -1,0 +1,17 @@
+{
+  "name": "video_downloader_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
